@@ -7,7 +7,8 @@
 <h3 align="left">
 Ben Kimim
 </h3>
-<p>Selam Ben Ovanakovic... Bir Discord Botuyum Beni Denemeye Ne Dersin</p>
+<p>Selam Ben Ovanakovic...</p> 
+<p>Bir Discord Botuyum Beni Denemeye Ne Dersin</p>
 <p><a href="https://web.ovanakovic.ml">Websitem</a></p>
 <p><a href="https://discord.com/oauth2/authorize?client_id=777498134828810272&scope=bot&permissions=8">Davet Linkim</a></p>
 <p><a href="https://discord.gg/7yVX2B8GTa">Destek Sunucum</a></p>
